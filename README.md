@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on an RPG Game in Python.<br>🤝 I'm looking to collaborate on open-source Python and JavaScript projects.<br>💡 I'm looking for help with building scalable applications and improving my software architecture skills.<br>🌱 I'm currently learning Python, JavaScript, Django, Git, and GitHub.<br>💬 Ask me about Python, JavaScript, HTML, CSS, Tailwind CSS, Math, Physics, or Git.<br>⚡ Fun fact: I enjoy building games, designing aerospace concepts, and I'm always working on learning something new.
+🔭 I'm currently working on an RPG Game in Python.<br>🤝 I'm looking to collaborate on open-source Python and JavaScript projects.<br>💡 I'm looking for help with building scalable applications and improving my software architecture skills.<br>🌱 I'm currently learning Python, JavaScript, Django, Git, and GitHub.<br>💬 Ask me about Python, JavaScript, HTML, CSS, Tailwind CSS, Math, Physics, or Git.<br>⚡ Fun fact: I enjoy building games, designing backend systems, and I'm always working on learning something new.
 
 
 ## 🌐 Socials:
